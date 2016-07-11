@@ -46,7 +46,7 @@ gist:
 
 ### Lucy Fox
 
-gist:
+gist: https://gist.github.com/lucyfox4131/2408e74bf7f7bf288654069c80e93dd3
 
 ### Marcella Wigg
 
